@@ -42,6 +42,6 @@ With a strong background in **Health Information Management**, I bridge the gap 
 
 ---
 
- 
+ ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ✨ *"Transforming health data into actionable insights through technology."*  

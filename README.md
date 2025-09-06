@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Omobuwa BLESSED ADEOYE
 
-<!--
-**blessed1adeoye/blessed1adeoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Python Developer | Data Engineer | Health Information Management Specialist  
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about developing **scalable web applications**, **interactive desktop apps**, and **data-driven solutions**.  
+With a strong background in **Health Information Management**, I bridge the gap between **technology** and **healthcare systems**, delivering impactful applications.  
+
+---
+
+## 🛠️ Tech & Tools
+
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks:** Django, Django REST Framework, Tkinter, CustomTkinter, Kivy, KivyMD  
+- **Data Engineering:** Pandas, NumPy, Matplotlib, Power BI, Excel, ETL Pipelines, Data Cleaning  
+- **Databases:** MySQL, PostgreSQL, SQLite  
+- **Other Tools:** Git/GitHub, REST APIs, Docker (basic), Cloud (AWS basics)  
+
+---
+
+## 📌 Featured Projects
+
+- 🏥 **[Electronic Health Information Management (EHIM)]** – Healthcare management system with patient registration & analytics dashboards.  
+- 📱 **[Social Media App](https://djangosm.pythonanywhere.com/)** – Django-powered platform with roars (posts), hashtags, messaging, and live streaming.  
+- 🛒 **[E-Commerce Platform]()** – Complete e-commerce solution with cart, checkout, and shipping integration.  
+- 📊 **[Healthcare Data Dashboards]()** – Interactive dashboards using CustomTkinter & Power BI.  
+
+---
+
+## 📈 GitHub Stats & Activity
+
+
+
+---
+
+## 🌍 Connect with Me  
+
+- 💼 [LinkedIn](www.linkedin.com/in/adeoye-omobuwa-70b222208)  
+- 🌐 [Portfolio Website](https://bgtera.pythonanywhere.com/)  
+- 📧 [Email Me](mailto:mypythonjob@yahoo.com)  
+
+---
+
+ 
+
+✨ *"Transforming health data into actionable insights through technology."*  

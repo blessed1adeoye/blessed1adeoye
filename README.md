@@ -21,16 +21,21 @@ With a strong background in **Health Information Management**, I bridge the gap 
 
 ## 📌 Featured Projects
 
-- 🏥 **[Electronic Health Information Management (EHIM)]** – Healthcare management system with patient registration & analytics dashboards.  
+
+- 🏥 **[Electronic Health Information Management (EHIM)]()** – Healthcare management system with patient registration & analytics dashboards. 
 - 📱 **[Social Media App](https://djangosm.pythonanywhere.com/)** – Django-powered platform with roars (posts), hashtags, messaging, and live streaming.  
 - 🛒 **[E-Commerce Platform]()** – Complete e-commerce solution with cart, checkout, and shipping integration.  
 - 📊 **[Healthcare Data Dashboards]()** – Interactive dashboards using CustomTkinter & Power BI.  
 
 ---
 
+
+
 ## 📈 GitHub Stats & Activity
 
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 
 ---
 

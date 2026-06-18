@@ -36,7 +36,7 @@ With a strong background in **Health Information Management**, I bridge the gap 
 
 ## 🌍 Connect with Me  
 
-- 💼 [LinkedIn](www.linkedin.com/in/adeoye-omobuwa-70b222208)  
+- 💼 [LinkedIn](www.linkedin.com/in/adeoyeomobuwa)  
 - 🌐 [Portfolio Website](https://bgtera.pythonanywhere.com/)  
 - 📧 [Email Me](mailto:mypythonjob@yahoo.com)  
 
